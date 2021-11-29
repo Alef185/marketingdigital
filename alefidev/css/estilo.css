@@ -1,0 +1,22 @@
+#banner{
+	width:1000px;
+	height:250px;
+	background-color:#ff0;
+	margin:auto;
+	margin-bottom: 20px;
+}
+#corpo{
+    width:1000px;
+	height:450px;
+	background-color:#f00;
+	margin:auto;
+	margin-bottom: 10px;
+}
+#rodape{
+    width:1000px;
+	height:270px;
+	background-color:#00f;
+	margin:auto;
+
+}
+
